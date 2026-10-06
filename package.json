@@ -4,6 +4,8 @@
   "homepage": "http://demo-food-portal.yes45.in/",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.13.3",
     "@testing-library/jest-dom": "^5.16.5",
