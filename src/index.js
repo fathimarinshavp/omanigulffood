@@ -1,4 +1,4 @@
-
+import './jquery-global';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import 'video-react/dist/video-react.css';
