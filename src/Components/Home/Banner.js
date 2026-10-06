@@ -9,14 +9,14 @@ function Banner() {
       <Carousel.Item >
         <img
           className="d-block w-100" style={{marginTop:'92px'}}
-          src='images/banner/slider1.jpeg'
+          src='/images/banner/Slider1.jpg'
           alt="First slide"
         />
         <Carousel.Caption>
            {/* <div className="image-text">
             <img
               className=""
-              src='images/banner/sliderlogo.png'
+              src='/images/banner/sliderlogo.png'
               alt="Third slide"
             />
             <h6 className='linedown'>WELCOME TO</h6>
@@ -27,7 +27,7 @@ function Banner() {
       <Carousel.Item>
         <img
             className="d-block w-100" style={{marginTop:'92px'}}             
-          src='images/banner/Slider-1.jpg'
+          src='/images/banner/Slider4.jpg'
           alt="Second slide"
         />
 
@@ -43,13 +43,13 @@ function Banner() {
           <img
             className="d-block w-100"
             
-            src='images/banner/slider1.jpeg'
+            src='/images/banner/slider1.jpeg'
             alt="Third slide"
           />
           <div className="image-text">
             <img
               className=""
-              src='images/banner/sliderlogo.png'
+              src='/images/banner/sliderlogo.png'
               alt="Third slide"
             />
             <h6>WELCOME TO</h6>
@@ -60,7 +60,7 @@ function Banner() {
           <img
             className="d-block w-100"
             
-            src='images/banner/slider2.jpeg'
+            src='/images/banner/slider2.jpeg'
             alt="Third slide"
           />
        

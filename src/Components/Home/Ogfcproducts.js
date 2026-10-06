@@ -31,7 +31,7 @@ function Ogfcproducts() {
                     <div className='productlist'>
                         <ul class="menu">
                             <Link to="/palmolein-details">  <li className='nonoilp'><a href="#">
-                                <img src="images/products/palm.jpg"></img>
+                                <img src="/images/products/palm.jpg"></img>
 
 
                                 <h6>PALM OLEIN
@@ -45,24 +45,24 @@ function Ogfcproducts() {
 
                             </li></Link>
                             <Link to="/sunfloweroil-details">   <li className='nonoilp'>
-                                <a href="#"><img src="images/products/Sunfloweroilimage.jpg"></img>
+                                <a href="#"><img src="/images/products/Sunfloweroilimage.jpg"></img>
                                     <h6>SUNFLOWER OIL</h6>
 
                                     {/* <button className='seeproducts hide-me '></button> */}
                                 </a>
                             </li></Link>
-                            <Link to="/cornoil-details">    <li className='nonoilp'><a href="#"><img src="images/products/Cornoilimage.jpg"></img>
+                            <Link to="/cornoil-details">    <li className='nonoilp'><a href="#"><img src="/images/products/Cornoilimage.jpg"></img>
                                 <h6>CORN OIL</h6>
                             </a></li></Link>
-                            <Link to="/cooking-oil"> <li className='nonoilp'><a href="#"><img src="images/products/bi.jpg"></img>
+                            <Link to="/cooking-oil"> <li className='nonoilp'><a href="#"><img src="/images/products/bi.jpg"></img>
 
                                 <h6>COOKING OIL</h6>
                             </a></li></Link>
-                            <Link to="/shortening">  <li className='nonoilp'><a href="#"><img src="images/products/shortening.jpg"></img>
+                            <Link to="/shortening">  <li className='nonoilp'><a href="#"><img src="/images/products/shortening.jpg"></img>
 
                                 <h6>SHORTENING</h6>
                             </a></li></Link>
-                            {/* <li class="bg"><img src="images/products/palm.jpg"></img></li> */}
+                            {/* <li class="bg"><img src="/images/products/palm.jpg"></img></li> */}
                         </ul>
 
                     </div>

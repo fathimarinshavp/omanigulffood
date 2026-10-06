@@ -31,7 +31,7 @@ function Footer() {
           <Row>
             <Col xs={12} sm={12} md={4}>
               <div className="footermain">
-                <img className="log" src="images/footer-sliderlogo.png"  ></img>
+                <img className="log" src="/images/footer-sliderlogo.png"  ></img>
                 <Link to="/"><img src="/images/bottomlogo.png"  ></img></Link>
                 <div className="footerlinks">
                   <Link to="/about-us" style={{ textDecoration: 'none' }}> <h6>ABOUT US</h6></Link>

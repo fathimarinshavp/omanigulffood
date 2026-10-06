@@ -49,7 +49,7 @@ function Aboutabout() {
             </div>
             <div className='col-md-6'>
               <div className='about-img'>
-                <img src='aboutimages/Company-about.jpg'></img>
+                <img src='/aboutimages/Company-about.jpg'></img>
                 {/* <div className='board-para'>
                   <p>The Board of Directors is responsible for Omani Gulf Food Company strategic direction, oversight and corporate governance, ensuring the business delivers on the government of Oman development and diversification priorities.</p>
                 </div> */}

@@ -56,42 +56,42 @@ function Productnonoil() {
           <OwlCarousel className='owl-theme' {...options}>
             <div class='item'>
               <div className='boxproduct'>
-              <Link to="/non-oilproducts"> <img src="images/nonoilproducts/nonoil1.jpg"></img></Link> 
+              <Link to="/non-oilproducts"> <img src="/images/nonoilproducts/nonoil1.jpg"></img></Link> 
             </div>
             </div>
             <div class='item'>
               <div className='boxproduct'>
-              <Link to="/non-oilproducts">  <img src="images/nonoilproducts/nonoil2.jpg"></img></Link> 
+              <Link to="/non-oilproducts">  <img src="/images/nonoilproducts/nonoil2.jpg"></img></Link> 
               </div>
             </div>
             <div class='item'>
               <div className='boxproduct'>
-              <Link to="/non-oilproducts">  <img src="images/nonoilproducts/nonoil3.jpg"></img></Link> 
+              <Link to="/non-oilproducts">  <img src="/images/nonoilproducts/nonoil3.jpg"></img></Link> 
               </div>
             </div>
             <div class='item'>
               <div className='boxproduct'>
-              <Link to="/non-oilproducts">     <img src="images/nonoilproducts/nonoil4.jpg"></img></Link> 
+              <Link to="/non-oilproducts">     <img src="/images/nonoilproducts/nonoil4.jpg"></img></Link> 
               </div>
             </div>
           {/* <div class='item'>
               <div className='boxproduct'>
-              <Link to="/non-oilproducts">  <img src="images/nonoilproducts/1.jpg"></img></Link> 
+              <Link to="/non-oilproducts">  <img src="/images/nonoilproducts/1.jpg"></img></Link> 
               </div>
             </div>
             <div class='item'>
               <div className='boxproduct'>
-              <Link to="/non-oilproducts">  <img src="images/nonoilproducts/2.jpg"></img></Link> 
+              <Link to="/non-oilproducts">  <img src="/images/nonoilproducts/2.jpg"></img></Link> 
               </div>
             </div>
             <div class='item'>
               <div className='boxproduct'>
-              <Link to="/non-oilproducts">   <img src="images/nonoilproducts/3.jpg"></img></Link> 
+              <Link to="/non-oilproducts">   <img src="/images/nonoilproducts/3.jpg"></img></Link> 
               </div>
             </div>
             <div class='item'>
               <div className='boxproduct'>
-              <Link to="/non-oilproducts">     <img src="images/nonoilproducts/4.jpg" style={{ height: '215px' }}></img></Link> 
+              <Link to="/non-oilproducts">     <img src="/images/nonoilproducts/4.jpg" style={{ height: '215px' }}></img></Link> 
               </div>
             </div> */}
           </OwlCarousel>

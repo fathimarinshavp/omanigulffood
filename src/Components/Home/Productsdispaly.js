@@ -60,7 +60,7 @@ function Productsdispaly() {
 
                 <div className='boxproduct'>
 
-                  <img src="images/oilproducts/AL BARAKAT PALM 20L.jpg"></img>
+                  <img src="/images/oilproducts/AL BARAKAT PALM 20L.jpg"></img>
 
                 </div>
 
@@ -70,21 +70,21 @@ function Productsdispaly() {
               <Link to="/oil-products">  <div class='item'>
                 <div className='boxproduct'>
 
-                  <img src="images/oilproducts/SUNDROPS 17L.jpg"></img>
+                  <img src="/images/oilproducts/SUNDROPS 17L.jpg"></img>
 
                 </div>
               </div></Link>
               <Link to="/oil-products">  <div class='item'>
                 <div className='boxproduct'>
 
-                  <img src="images/oilproducts/BAHJAH CORN OIL 20L.jpg"></img>
+                  <img src="/images/oilproducts/BAHJAH CORN OIL 20L.jpg"></img>
 
                 </div>
               </div></Link>
               <Link to="/oil-products"><div class='item'>
                 <div className='boxproduct'>
 
-                  <img src="images/oilproducts/AL BARAKAT 4L(cooking).jpg"></img>
+                  <img src="/images/oilproducts/AL BARAKAT 4L(cooking).jpg"></img>
 
                 </div>
               </div>
@@ -92,21 +92,21 @@ function Productsdispaly() {
               <Link to="/oil-products"><div class='item'>
                 <div className='boxproduct'>
 
-                  <img src="images/oilproducts/KAREEM CORNBLEND OIL 1P8L.jpg"></img>
+                  <img src="/images/oilproducts/KAREEM CORNBLEND OIL 1P8L.jpg"></img>
 
                 </div>
               </div></Link>
               <Link to="/oil-products">  <div class='item'>
                 <div className='boxproduct'>
 
-                  <img src="images/oilproducts/AL WAHA 1P5L.jpg"></img>
+                  <img src="/images/oilproducts/AL WAHA 1P5L.jpg"></img>
 
                 </div>
               </div></Link>
               <Link to="/oil-products"><div class='item'>
                 <div className='boxproduct'>
 
-                  <img src="images/oilproducts/A'SAFWAH GHEE 16L.jpg"></img>
+                  <img src="/images/oilproducts/A'SAFWAH GHEE 16L.jpg"></img>
 
                 </div>
               </div>
@@ -114,7 +114,7 @@ function Productsdispaly() {
               <Link to="/oil-products"> <div class='item'>
                 <div className='boxproduct'>
 
-                  <img src="images/oilproducts/Zain Shortening 48-50 copy.jpg" style={{ height: '215px' }}></img>
+                  <img src="/images/oilproducts/Zain Shortening 48-50 copy.jpg" style={{ height: '215px' }}></img>
 
                 </div>
               </div>

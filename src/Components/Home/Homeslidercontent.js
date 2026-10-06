@@ -24,7 +24,7 @@ function Homeslidercontent() {
             {/* <h6 className='linedown'>OMANI GULF FOOD COMPANY</h6> */}
             <img
               className=""
-              src='images/slider-below-logo.png'
+              src='/images/slider-below-logo.png'
               alt="Third slide"
             />
             <h6 style={{ lineHeight: "80px", wordSpacing: "6px", fontSize: '45px', fontFamily: 'Colus Regular' }} className='linedown mb-3 '>

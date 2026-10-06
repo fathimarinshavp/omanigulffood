@@ -108,8 +108,8 @@ function Productdetails() {
                     <Row>
                         <Col xs={12} sm={12} md={4}>
                             <div className="footermain">
-                                <img class="log" src="images/footer-sliderlogo.png" />
-                                <img src="images/logofont.png"  ></img>
+                                <img class="log" src="/images/footer-sliderlogo.png" />
+                                <img src="/images/logofont.png"  ></img>
       
                             </div>
                         </Col>

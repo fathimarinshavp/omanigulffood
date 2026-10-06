@@ -30,28 +30,28 @@ function Newsandevents() {
            
             <Col xs={12} md={3}>  
             <div className='nbox'>
-                <img src='images/news/1.jpg'></img>
+                <img src='/images/news/1.jpg'></img>
                 <p>OVOD Participate Gulf Food Exhibition on 13th Feb - 17 Feb in Dubai</p>
             </div>
             
             </Col>
             <Col xs={12} md={3}>  
             <div className='nbox'>
-                <img src='images/news/2.jpg'></img>
+                <img src='/images/news/2.jpg'></img>
                 <p>Quality Leadership Award @ The Middle East Quality Leadership Awards</p>
             </div>
             
             </Col>
             <Col xs={12} md={3}>  
             <div className='nbox'>
-                <img src='images/news/3.jpg'></img>
+                <img src='/images/news/3.jpg'></img>
                 <p>Meeting with Mr.Thomas Mielke , Managing Director, Oil World</p>
             </div>
             
             </Col>
             <Col xs={12} md={3}>  
             <div className='nbox'>
-                <img src='images/news/4.jpg'></img>
+                <img src='/images/news/4.jpg'></img>
                 <p>OVOD Participate Gulf Food Exhibition on 16th Feb - 20 Feb in Dubai</p>
             </div>
             

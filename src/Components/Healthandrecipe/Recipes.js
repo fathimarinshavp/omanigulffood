@@ -58,7 +58,7 @@ function Recipes() {
                 <div className="row">
 
                     <div className="col-md-5 recipes-img">
-                        <img className="" style={{ width: '100%' }} src=" /recipes/recipe.jpg"></img>
+                        <img className="" style={{ width: '100%' }} src="/recipes/recipe.jpg"></img>
                     </div>
 
                     <div className="col-md-7 px-5">
@@ -293,7 +293,7 @@ function Recipes() {
 
                 <div className="row">
                     <div className="col-md-3 recipes-img">
-                        <img className="" style={{ width: '100%' }} src=" /recipes/Recipe-Image.jpg"></img>
+                        <img className="" style={{ width: '100%' }} src="/recipes/Recipe-Image.jpg"></img>
                     </div>
                     <div className="col-md-9 p-5">
                         <h4 className="recipes-head">Kaak</h4>
@@ -422,7 +422,7 @@ function Recipes() {
 
                 <div className="row">
                     <div className="col-md-3 recipes-img">
-                        <img className="" style={{ width: '100%' }} src=" /recipes/Recipe-Image.jpg"></img>
+                        <img className="" style={{ width: '100%' }} src="/recipes/Recipe-Image.jpg"></img>
                     </div>
                     <div className="col-md-9 p-5">
                         <h4 className="recipes-head">LambAnd Date Stew</h4>
@@ -530,8 +530,8 @@ function Recipes() {
                     <Row>
                         <Col xs={12} sm={12} md={4}>
                             <div className="footermain">
-                                <img class="log" src="images/footer-sliderlogo.png" />
-                                <img src="images/logofont.png"  ></img>
+                                <img class="log" src="/images/footer-sliderlogo.png" />
+                                <img src="/images/logofont.png"  ></img>
 
                             </div>
                         </Col>

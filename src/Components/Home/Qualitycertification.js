@@ -35,7 +35,7 @@ function Qualitycertification() {
               </Col>
               <Col md={4}>
                <Row>
-                  <Col><img src='images/qualification.jpg'></img></Col>
+                  <Col><img src='/images/qualification.jpg'></img></Col>
                 </Row>
               </Col>
             </Row>
